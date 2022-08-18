@@ -3,3 +3,6 @@ page 2 of my book
 some work here
 
 I edited page 2 after Commit it
+
+
+EDITS ARE DONE BY ME AS SELF PRACTICE
